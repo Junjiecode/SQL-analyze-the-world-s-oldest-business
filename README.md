@@ -1,14 +1,16 @@
 # SQL-analyze-the-world-s-oldest-business
+Attention: I will analyze this dataset both in python & sql, to check related python project, please click on this link : 
 
 ## Project Description
-An important part of business is planning for the future and ensuring that the business survives changing market conditions. Some businesses do this remarkably well and last for hundreds of years. In this project, you'll explore data from BusinessFinancing.co.uk on the world's oldest businesses: when were they founded, and which industries do they belong to?
+An important part of business is planning for the future and ensuring that the business survives changing market conditions. Some businesses do this remarkably well and last for hundreds of years. In this project, we'll explore data from BusinessFinancing.co.uk on the world's oldest businesses: when were they founded, and which industries do they belong to?
 
 Like many business problems, the data we'll explore is contained in several different datasets. In order to understand the world's oldest businesses, we will first need to use joining techniques to merge our data. From there, we can use manipulation tools such as grouping and filtering to answer questions about these historic businesses.
 
 ## 1. The oldest business in the world
 
-![]()
-the oldest company that is still in business in (almost) every country and compiled the results into a dataset. In this project, you'll explore that dataset to see what they found.</p>
+![](https://github.com/Junjiecode/SQL-analyze-the-world-s-oldest-business/blob/main/400px-Eingang_zum_St._Peter_Stiftskeller.jpg)
+
+the oldest company that is still in business in (almost) every country and compiled the results into a dataset. In this project, we'll explore that dataset to see what they found.</p>
 <p>The database contains three tables.</p>
 <h3 id="categories"><code>categories</code></h3>
 <table>
